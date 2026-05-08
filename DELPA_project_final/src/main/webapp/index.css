@@ -1,0 +1,82 @@
+.rounded-input {
+    border-radius: 30px;
+    padding: 15px;
+    font-size: 16px;
+    border: 1px solid #00C7B0; 
+    margin-right: 10px;
+    width: 120px;
+    align: center;
+}
+
+
+
+.submit-input2 {
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 10px;
+    width:80px;
+    border: 1px solid #00C7B0;
+    align: right;
+    margin-top:20px;
+}
+
+#name {
+    width: 200px;
+    height: 20px;
+}  
+
+.invisible{
+    display: none;
+}
+
+.hed {
+    text-align: left;
+}
+
+.hedled{
+    text-align: right;
+}
+
+.menu1 {
+    justify-content: space-between;
+    clear: both;
+    display: flex;
+}
+
+.container {
+    width: 1200px;
+    height: 600px;
+    border: 1px solid #00C7B0;
+  }
+
+.adbox {
+    box-sizing: border-box;
+    width: 1000px; 
+    height: 400px;
+    padding: 20px;
+    border: 1px solid #00C7B0;
+    border-radius: 20px;
+    margin: 0;
+    box-shadow: 0px 2px 2px 2px gray;
+}
+
+.loginbox {
+    box-sizing: border-box;
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #00C7B0;
+    border-radius: 20px; 
+    box-shadow: 0px 2px 2px 2px gray;
+    position: relative;
+    margin: 0;
+    right: 150px;
+    text-align: left;
+}
+
+.footeer {
+    text-align: center;
+    width: 100%;
+}
+
